@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BDsm_Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BD_Lab1.c
+  commandParser.c
+  dpOperations.c
+D:\Downloads\BD_Lab1\dpOperations.c(399,11): warning C4129:  'C': unrecognized character escape sequence
+  Generating Code...
+D:\Downloads\BD_Lab1\dpOperations.c(633,49): warning C4090:  'function': different 'const' qualifiers
+D:\Downloads\BD_Lab1\BD_Lab1.c(53): warning C4715:  'handleCommand': not all control paths return a value
+  BDsm_Lab1.vcxproj -> D:\Downloads\BD_Lab1\Debug\BD_Lab1.exe
